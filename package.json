@@ -1,5 +1,5 @@
 {
-  "name": "DynamicKeyServer-nodejs",
+  "name": "twiliotw",
   "version": "0.0.1",
   "main": "index.js",
   "scripts": {
@@ -7,12 +7,13 @@
   },
   "dependencies": {
     "express": "^4.16.4",
-    "request": "^2.88.2"
+    "request": "^2.88.2",
+    "twilio": "^3.65.0"
   },
-  "author": "Agora.IO",
+  "author": "Fred",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AgoraLab/DynamicKeyServer-nodejs.git"
+    "url": "https://github.com/freddysundowner/twiliotw.git"
   },
   "license": "MIT",
   "devDependencies": {
